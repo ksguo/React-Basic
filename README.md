@@ -1,2 +1,2 @@
-# Reacr basic
+# React basic
 
